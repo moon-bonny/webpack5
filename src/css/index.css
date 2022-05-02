@@ -1,0 +1,7 @@
+@import "a.css";
+body {
+  background-color: yellowgreen;
+}
+img {
+  transform: rotate(45deg);
+}
